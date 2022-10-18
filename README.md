@@ -1,13 +1,14 @@
-Project 11 Express.js Challenge: Note Taker
+# Project 11 Express.js Challenge: Note Taker
 
+# Challange:
 Your challenge is to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
-User Story:
+# User Story:
 AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-Acceptance Criteria:
+# Acceptance Criteria:
 GIVEN a note-taking application
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to a notes page
@@ -22,9 +23,13 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+# Images:
+
 ![Note-Taker-Image-1](images\note-taker1.JPG)
 
 ![Note-Taker-Image-2](images\note-taker2.JPG)
+
+# Links:
 
 GitHub: https://github.com/EthanDeMougin
 
