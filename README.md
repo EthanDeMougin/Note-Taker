@@ -25,9 +25,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 # Images:
 
-![Note-Taker-Image-1](images\note-taker1.JPG)
+![Note-Taker-Image-1](images/note-taker1.JPG)
 
-![Note-Taker-Image-2](images\note-taker2.JPG)
+![Note-Taker-Image-2](images/note-taker2.JPG)
 
 # Links:
 
